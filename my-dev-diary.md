@@ -14,7 +14,7 @@
 
 ## 2. Gather Data
 
-- May.29.2023 (Mon) - The Kick-Off Meeting
+- **May.29.2023 (Mon) - The Kick-Off Meeting**
 
   - Possible topics, resources for dataset, etc. were discussed
 
