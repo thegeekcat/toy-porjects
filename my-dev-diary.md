@@ -4,7 +4,7 @@
 
 ## 1. Start a new project
 
-- May.25.2023 (Thur) - The beginning of the project
+- **May.25.2023 (Thur) - The beginning of the project**
   - I am studying **Data Analysis and Computer Vision** from **Microsoft AI School** course, and there was a Town Hall meeting today.
   - A classmate suggested me to make a team to attend a Data Analysis Competition about Culture and Tourism in a historical city in Korea; and I said okay for sure
   - Issue: The submission day is June.16.2023, so we have only three weeks; but we agree to be meaningful in having an experience 😘
@@ -22,7 +22,7 @@
 
     
 
-- May.30.2023 (Tue) - Issues: Web scrapping
+- **May.30.2023 (Tue) - Issues: Web scrapping**
 
   - First time, I had tried to do screen scrapping from Social Network Services, such as Instagram, Facebook, YouTube
 
@@ -32,7 +32,7 @@
 
     
 
-- May.31.2023 (Wed) - Issue: Korean Encording
+- **May.31.2023 (Wed) - Issue: Korean Encoding**
 
   - I gave up to do the screen scrapping, and had started to gather data from public government websites providing open data for free
   - I believe I could gather quite meaningful data to get some insights for a good result; was so satisfied
@@ -40,7 +40,7 @@
 
   
 
-- June.01.2023 (Thur) - Check the dataset
+- **June.01.2023 (Thur) - Check the dataset**
 
   - We had our second meeting to review all data each gathered until the point; and we were satisfying!
   - Next meeting is scheduled on June.06.2023 (Tue); and task till then is to clean all data
